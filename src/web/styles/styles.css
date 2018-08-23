@@ -1,0 +1,306 @@
+/* FOOTER **/
+.footer {
+    bottom: 0px;
+    background: #ffffff;
+    border-top: 1px solid #EAEBEA;
+    padding: 10px 0px;
+    position: fixed !important;
+    height: 70px;
+    width: 100%;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+.footer-text {
+    color: #FFAF4B;
+    margin-bottom: 0px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.expand-icon {
+    margin-bottom: 5px;
+}
+.margin-right-10 {
+    margin-right: 10px;
+}
+.float-right{
+    float: right;
+}
+.expand-button {
+    width: 65px;
+    margin: auto;
+    background: #fff;
+    border-top: 1px solid #D0D1D0;
+    border-radius: 50%;
+    padding-top: 5px;
+    margin-top: -28px;
+    cursor: pointer;
+}
+
+.footer-homeBtn {
+    background: url(../images/images/homeIcon.png);
+    width: 35px;
+    height: 35px;
+    background-size: 100%;
+    margin-bottom: 5px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.footer-homeBtn:hover {
+    background: url(../images/images/homeIconDark.png);
+    background-size: 100%;
+}
+
+.footer-homeBtn-active {
+    background: url(../images/images/homeIconDark.png);
+    width: 35px;
+    height: 35px;
+    background-size: 100%;
+    cursor: pointer;
+    margin-bottom: 5px;
+    margin: auto;
+}
+
+.footer-get-funds {
+    background: url(../images/images/DollarIcon.png);
+    width: 35px;
+    height: 34px;
+    background-size: 100%;
+    margin-bottom: 5px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.footer-get-funds:hover {
+    background: url(../images/images/DollarIconDark.png);
+    background-size: 100%;
+}
+
+.footer-get-funds-active {
+    background: url(../images/images/DollarIconDark.png);
+    background-size: 100%;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    margin-bottom: 5px;
+    margin: auto;
+}
+
+.footer-add-assets {
+    background: url(../images/images/add_assets_icon.png);
+    width: 35px;
+    height: 35px;
+    background-size: 100%;
+    margin-bottom: 5px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.footer-add-assets:hover {
+    background: url(../images/images/add_asset_Selected.png);
+    background-size: 100%;
+}
+
+.footer-add-assets-active {
+    background: url(../images/images/add_asset_Selected.png);
+    width: 35px;
+    height: 35px;
+    background-size: 100%;
+    margin-bottom: 5px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.footer_make_payment {
+    background: url(../images/images/make_payment_icon.png);
+    width: 35px;
+    height: 35px;
+    background-size: 100%;
+    margin-bottom: 5px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.col-xs-15 {
+    width: 20%;
+    float: left;
+}
+
+/* HEADER */
+.navbar-default {
+    background-color: #ffffff !important;
+    background: #fff;
+    border-bottom: 1px solid #E9E9E9;
+    margin-bottom: 0 !important;
+    height: 80px;
+}
+
+.navbar-default div{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+    color: blue;
+}
+.App-logo {
+    width: 201px;
+    float: left;
+    margin-top: 20px;
+  }
+
+.header-icon p{
+    font-size: 10px;
+    font-weight: 300;
+    color: #ffaf4b;
+    margin-left: -3px;
+    margin-top: 15px;
+}
+
+.confirmation-overlay-block .about-block {
+    margin-top: 10px;
+}
+.about-block .about-msg {
+    margin-left: 35%;
+}
+.header-icon {
+    padding: 10px 0;
+}
+
+.logout-icon {
+    background: url(../images/images/logout.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.about-icon {
+    background: url(../images/images/about.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.header-icon {
+    cursor: pointer;
+    margin-top: 12px;
+    cursor: pointer;
+    width: 24px;
+
+}
+
+.companylogo {
+    background: url(../images/images/sweetBridge_logo.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    margin: 19px 0 0 48px;
+}
+
+.pull-right{
+    float: right;
+}
+
+.close {
+    opacity: 1.2;
+}
+/* LOGIN */
+body {
+    background: #f6f7f6;
+    font-family: 'DINAlternateRegular', sans-serif !important;
+}
+
+.login-block {
+    margin-left: 35%;
+    margin-top: 60px;
+}
+.login-block label {
+    margin-left: 63px;
+    font-size: 30px;
+}
+.login-block input {
+    text-align: center;
+    width: 400px;
+    height: 50px;
+    margin-top: 15px;
+}
+.login-block button {
+    width: 400px;
+    height: 50px;
+    margin-top: 15px;
+}
+.list-group button {
+    text-align: center
+}
+.padding-top-7{
+    padding-top: 7px;
+}
+.cricketer-details-edit-button {
+    margin-top: 20px;
+    text-align: center;
+}
+.cricketer-details-edit-button span{
+    margin-right: 10px;
+}
+
+.ReactModal__Overlay--after-open {
+    background-color: rgba(0, 0, 0, 0.4) !important;
+    overflow: scroll !important;
+    padding: 0px !important;
+    z-index: 4;
+}
+
+.ReactModal__Content--after-open {
+    background-color: transparent !important;
+    border: 0px !important;
+    padding: 0px !important;
+    overflow: hidden !important;
+    position: unset !important;
+    width: 640px;
+    margin: 40px auto;
+}
+
+.ReactModal__Body--open {
+    overflow-y: hidden;
+}
+
+.confirmation-overlay-block {
+    background: #fff !important;
+    position: relative;
+    box-shadow: 2px 2px 4px 0 rgba(155, 155, 155, 0.5);
+    width: 640px;
+    font-family: AppleSystemUIFont;
+    font-size: 14px;
+    color: #4a4a4a;
+    line-height: 22px;
+}
+
+.modal-header {
+    font-family: 'DINAlternateRegular', sans-serif !important;
+    font-size: 18px !important;
+    color: #191b1e !important;
+}
+.modal-header .cricketer-name {
+    text-transform: uppercase;
+}
+.modal-body input {
+    width: 40%;
+    display: inline-block;
+    margin-right: 150px;
+    float: right;
+}
+
+.modal-body label {
+    margin-left: 100px;
+    padding-top: 8px;
+}
+
